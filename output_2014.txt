@@ -1,16 +1,6 @@
 The total tweets from March 2014:
 37726983
-The total tweets from March 2014 about artificial Intelligence
+The total tweets from March 2014 about the consequences of climate change:
 2800
 
-expected values: 
 
-37700670.850	16579883.150
-29112.150	12802.850
-
-ChiSquare = 77917.75372,
-df = 1, p-value < 10-5
-The chi-square statistic is 77917.7537. 
-
-The chi-square statistic with Yates correction is 77914.7925. 
-The p-value is < 0.00001. Significant at p < .05.
